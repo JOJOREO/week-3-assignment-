@@ -8,6 +8,7 @@ public class Main {
 
 System.Out.Println("hello");
 System.Out.Println("world");
+System.Out.println("part 2");
 
 }
 }
